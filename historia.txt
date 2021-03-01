@@ -1,5 +1,6 @@
 Este es texto de prueba
 
-esta en otra linea de prueba
+este es el segundo parrafo
+esta es el primer cambio
 
 esta es la tercer linea de prueba

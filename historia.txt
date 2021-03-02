@@ -3,4 +3,4 @@ Este es texto de prueba
 este es el segundo parrafo
 esta es el primer cambio
 
-esta es la tercer linea de prueba
+cambio despues de reset
